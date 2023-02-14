@@ -2,7 +2,7 @@ package src.tests.java;
 
 import java.util.List;
 
-import src.main.com.java.noycemap.Graph;
+import src.main.com.java.noyying.Graph;
 
 public class GraphTest {
 

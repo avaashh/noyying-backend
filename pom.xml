@@ -4,8 +4,8 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 http://maven.apache.org/xsd/maven-4.0.0.xsd">  
   
   <modelVersion>0.0.1</modelVersion>  
-  <groupId>com.NoyceMap.services</groupId>  
-  <artifactId>NoyceMap</artifactId>  
+  <groupId>com.java.noyying</groupId>  
+  <artifactId>Noyying</artifactId>  
   <version>1</version>  
   
 </project>  

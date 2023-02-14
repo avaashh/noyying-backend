@@ -1,5 +1,4 @@
-package src.main.com.java.noycemap;
-
+package src.main.com.java.noyying;
 
 import src.tests.java.GraphTest;
 

@@ -1,4 +1,4 @@
-package src.main.com.java.noycemap;
+package src.main.com.java.noyying;
 
 import java.util.ArrayList;
 import java.util.HashMap;
