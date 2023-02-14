@@ -8,7 +8,7 @@ This is an independent project done by the authors mentioned herewith. Noyying i
 
 We are trying to solve Grinnell's Science Center's problems with technology (its what Robert Noyce would have wanted).
 
-Presenting you, Noyying: A map application that helps with route planning in Robert Noyce Science Center and making navigating the building a bit less annoying.
+Presenting you, Noyying: A map application that helps with route planning in Robert Noyce Science Center and makes navigating the building a bit less annoying.
 
 This is the codebase for the RESTful API system of Noyying built with `Spring Framework` on top of Java, employing `Dijkstra's Algorithm` for shortest route finding between nodes in a graph.
 
