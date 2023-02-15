@@ -2,6 +2,8 @@
 
 This is an independent project done by the authors mentioned herewith. Noyying is in no way, shape or form associated with Grinnell College, Grinnell College's faculty or students, or Robert N. Noyce.
 
+###### Bootstrapped by springboot
+
 ### Noyying
 
 "Noyce is a maze." How many times have you heard this statement on campus? Well the answer for me is too many.
